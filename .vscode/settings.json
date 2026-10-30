@@ -1,0 +1,17 @@
+{
+    "[kotlin]": {
+        "editor.defaultFormatter": "JetBrains.kotlin-server",
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.quickSuggestionsDelay": 100,
+        "editor.suggestOnTriggerCharacters": true,
+        "editor.suggest.showFunctions": true,
+        "editor.suggest.showMethods": true,
+        "editor.parameterHints.enabled": true,
+        "editor.inlayHints.enabled": "on"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
